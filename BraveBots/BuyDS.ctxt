@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=BuyDS
+comment1.params=
+comment1.target=BuyDS()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ Read0()
+comment4.params=
+comment4.target=void\ Read()
+comment5.params=
+comment5.target=void\ Write()
+comment6.params=
+comment6.target=void\ Confirmation()
+comment7.params=
+comment7.target=void\ Choice_Done()
+numComments=8

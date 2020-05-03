@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=YellowBrick
+comment1.params=
+comment1.target=YellowBrick()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ gravity()
+comment4.params=
+comment4.target=void\ the_moment()
+comment5.params=
+comment5.target=void\ taken()
+numComments=6

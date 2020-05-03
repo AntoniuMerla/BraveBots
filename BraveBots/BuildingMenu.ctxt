@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=BuildingMenu
+comment1.params=
+comment1.target=BuildingMenu()
+comment10.params=
+comment10.target=void\ act()
+comment11.params=i
+comment11.target=void\ Confirmation(int)
+comment12.params=i
+comment12.target=void\ Choice_Done(int)
+comment2.params=
+comment2.target=void\ Read0()
+comment3.params=
+comment3.target=void\ Read()
+comment4.params=
+comment4.target=void\ Write0()
+comment5.params=
+comment5.target=void\ Write1()
+comment6.params=
+comment6.target=void\ WriteXP()
+comment7.params=i
+comment7.target=void\ decide(int)
+comment8.params=i
+comment8.target=void\ decide2(int)
+comment9.params=
+comment9.target=void\ Locked()
+numComments=13

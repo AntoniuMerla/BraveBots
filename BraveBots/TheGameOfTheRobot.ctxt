@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=TheGameOfTheRobot
+comment1.params=
+comment1.target=TheGameOfTheRobot()
+comment2.params=
+comment2.target=void\ Read()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ legos()
+comment5.params=
+comment5.target=void\ check()
+comment6.params=
+comment6.target=void\ spawn()
+comment7.params=
+comment7.target=void\ fire()
+comment8.params=
+comment8.target=void\ yeeted()
+comment9.params=
+comment9.target=void\ fight()
+numComments=10

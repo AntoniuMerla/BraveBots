@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CounterForManyThings
+comment1.params=Text\ Text2
+comment1.target=CounterForManyThings(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
